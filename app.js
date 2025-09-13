@@ -32,7 +32,6 @@ function sortearAmigo() {
         console.log(listaDeAmigos);
         console.log(indiceAleatorio);
         return;
-
     }
 }
 
